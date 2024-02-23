@@ -1,0 +1,26 @@
+
+.JunwenMeme{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center; 
+    padding-top: 10%;
+    font-family: "Libre Baskerville", serif;
+    color: white;
+}
+    
+
+
+body{
+    background-color: black;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+h1{
+    text-transform: uppercase; 
+    font-size: 2rem;
+    
+}
